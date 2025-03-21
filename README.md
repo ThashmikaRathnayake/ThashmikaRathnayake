@@ -25,6 +25,10 @@
 <img alt="Top Contributed Repo" src="https://github-contributor-stats.vercel.app/api?username=ThashmikaRathnayake&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </div>
 
+## 🔝 Top Contributed Repo
+<div>
+<img alt="Top Contributed Repo" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThashmikaRathnayake&layout=compact&theme=dark"/>
+</div>
 
 <h2>🏆 GitHub Trophies</h2>
 <div align="center">
@@ -41,7 +45,7 @@
 <a href="https://www.linkedin.com/in/thashmika-rathnayake-799831314/">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logoColor=white" />
 </a>
-<a href="mailto:upenanuhansi@gmail.com">
+<a href="mailto:thashrath7@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge" />
 </a>
 
