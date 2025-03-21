@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logoColor=white" />
 </a>
 <a href="mailto:upenanuhansi@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge" />
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge" />
 </a>
 
 </div>
