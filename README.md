@@ -1,91 +1,47 @@
-# Hello! 👋
+## Hello! 👋
 
-- 👨‍🎓 I'm Thashmika, a student studying Computing at Sabaragamuwa University.
-- 💻 I'm interested in HTML, CSS, JavaScript, Java and PHP.
-- 🎨 I enjoy working on UI/UX design, creating user-friendly interfaces.
+- 👋 I'm *Thashmika Rathnayake*, a student studying [Computing & Information Systems](https://www.sab.ac.lk/computing/undergraduate/bsc-is-about) at [Sabaragamuwa University Sri Lanka](https://www.sab.ac.lk/).
+- 💻 I interseted in *HTML, **CSS, **JavaScript, **Java, and **PHP*.
+- 🎨 I enjoy working on *UI/UX design*, creating user-friendly interfaces.
 - 🌱 I'm always learning and contributing to open-source projects.
 
-## 📊 My GitHub Stats
 
-<div style="background-color: #1e2333; border-radius: 10px; padding: 15px; margin-bottom: 15px; width: 300px;">
-  <h3 style="color: #a3a8c3; margin-top: 0;">[Your Name]'s GitHub Stats</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Total%20Stars%20Earned-6-blue?style=flat" alt="Total Stars Earned" />
-    <br>
-    <img src="https://img.shields.io/badge/Total%20Commits%20(2023)-25-green?style=flat" alt="Total Commits" />
-    <br>
-    <img src="https://img.shields.io/badge/Total%20PRs-1-purple?style=flat" alt="Total PRs" />
-    <br>
-    <img src="https://img.shields.io/badge/Total%20Issues-0-red?style=flat" alt="Total Issues" />
-    <br>
-    <img src="https://img.shields.io/badge/Contributed%20to%20(last%20year)-1-cyan?style=flat" alt="Contributed to" />
-  </p>
+<div style="display: flex;">
+<div style="flex: 1;">
+<h2>📊My GitHub Stats</h2>
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ThashmikaRathnayake&show_icons=true&theme=cobalt"/>
+
+
+  <div style="flex: 1;">
+    <h2>🗣 Most Used Languages</h2>
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThashmikaRathnayake&layout=compact&theme=cobalt"/>
+  </div>
 </div>
 
-## 📊 Most Used Languages
-
-<div style="background-color: #1e2333; border-radius: 10px; padding: 15px; margin-bottom: 15px; width: 300px;">
-  <h3 style="color: #a3a8c3; margin-top: 0;">Most Used Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
-</div>
 
 ## 🔝 Top Contributed Repo
-
-<div style="background-color: #1e2333; border-radius: 10px; padding: 15px; margin-bottom: 15px; width: 300px;">
-  <h3 style="color: #a3a8c3; margin-top: 0;">[Your Name]'s GitHub Contributor Stats</h3>
-
-  <div>
-    <img src="https://img.shields.io/badge/Repository-lightgrey?style=flat" alt="Repository" />
-    <img src="https://img.shields.io/badge/★-gold?style=flat" alt="Stars" align="right" />
-  </div>
-  
-  <div style="margin-top: 5px;">
-    <img src="https://img.shields.io/badge/🟢-lightgrey?style=flat" alt="Green Circle" />
-    <span>Library-Management-System-in-JAVA</span>
-    <img src="https://img.shields.io/badge/B-blue?style=flat&borderRadius=50%" alt="B Badge" align="right" />
-  </div>
-  
-  <div style="margin-top: 5px;">
-    <img src="https://img.shields.io/badge/🟢-lightgrey?style=flat" alt="Green Circle" />
-    <span>Coffee-Shop</span>
-    <img src="https://img.shields.io/badge/B-blue?style=flat&borderRadius=50%" alt="B Badge" align="right" />
-  </div>
-  
-  <div style="margin-top: 5px;">
-    <img src="https://img.shields.io/badge/🟢-lightgrey?style=flat" alt="Green Circle" />
-    <span>YourUsername</span>
-    <img src="https://img.shields.io/badge/B-blue?style=flat&borderRadius=50%" alt="B Badge" align="right" />
-  </div>
-  
-  <div style="margin-top: 5px;">
-    <img src="https://img.shields.io/badge/🟢-lightgrey?style=flat" alt="Green Circle" />
-    <span>my-repository_y</span>
-    <img src="https://img.shields.io/badge/B-blue?style=flat&borderRadius=50%" alt="B Badge" align="right" />
-  </div>
-  
-  <div style="margin-top: 5px;">
-    <img src="https://img.shields.io/badge/🔵-lightgrey?style=flat" alt="Blue Circle" />
-    <span>Ceylon-Flavors</span>
-    <img src="https://img.shields.io/badge/B-blue?style=flat&borderRadius=50%" alt="B Badge" align="right" />
-  </div>
-</div>
-
-## 🏆 GitHub Trophies
-
 <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=8&row=1" alt="GitHub Trophies" />
+
+<img alt="Top Contributed Repo" src="https://github-contributor-stats.vercel.app/api?username=ThashmikaRathnayake&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </div>
+
+<h2>🏆 GitHub Trophies</h2>
+<div align="center">
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=ThashmikaRathnayake&theme=highcontrast&no-frame=false&no-bg=true&margin-w=4"/>
+</div>
+
 
 ## 💛 Connect & Collaborate
 
 <div>
-  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge" alt="Portfolio" />
-  </a>
-  <a href="YOUR_LINKEDIN_PROFILE" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR_EMAIL" target="_blank">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
+<a href="[your portfolio link]">
+  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/thashmika-rathnayake-799831314/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logoColor=white" />
+</a>
+<a href="mailto:thashrath7@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge" />
+</a>
+
 </div>
