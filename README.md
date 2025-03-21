@@ -22,8 +22,9 @@
 ## 🔝 Top Contributed Repo
 <div>
 
-<img alt="Top Contributed Repo" src="https://github-contributor-stats.vercel.app/api?username=ThashmikaRathnayake&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+<img alt="Top Contributed Repo" src="https://github-contributor-stats.vercel.app/api?username=UpenaNuhansi&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </div>
+
 
 <h2>🏆 GitHub Trophies</h2>
 <div align="center">
