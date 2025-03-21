@@ -30,6 +30,11 @@
 <img alt="Top Contributed Repo" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThashmikaRathnayake&layout=compact&theme=dark"/>
 </div>
 
+## 🔝 Top Contributed Repo
+<div>
+<img alt="Top Contributed Repo" src="https://github-readme-stats.vercel.app/api/repos-per-language/?username=ThashmikaRathnayake&theme=dark"/>
+</div>
+
 <h2>🏆 GitHub Trophies</h2>
 <div align="center">
   <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=ThashmikaRathnayake&theme=highcontrast&no-frame=false&no-bg=true&margin-w=4"/>
