@@ -11,6 +11,13 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThashmikaRathnayake&show_icons=true&theme=cobalt&card_height=200" height="200"/>
+</div>
+
+---
+
+### ✨ Most Used Languages
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThashmikaRathnayake&layout=compact&theme=cobalt&card_height=200" height="200"/>
 </div>
 
