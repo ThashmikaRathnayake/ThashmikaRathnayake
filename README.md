@@ -13,9 +13,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ThashmikaRathnayake&show_icons=true&theme=cobalt&card_height=200" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThashmikaRathnayake&layout=compact&theme=cobalt&card_height=200" height="200"/>
 </div>
+
+---
+
+### 🔥 GitHub Streak
+
 <div align="center">
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThashmikaRathnayake&theme=dark)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThashmikaRathnayake&theme=dark" alt="GitHub Streak"/>
 </div>
+
+---
 
 ---
 
@@ -32,8 +39,6 @@
 </div>
 
 ---
-
-## 🧰 Languages and Tools
 
 ## 🧰 Languages and Tools:
 
