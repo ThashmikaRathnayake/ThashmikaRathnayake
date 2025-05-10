@@ -3,13 +3,17 @@
 - I'm **Thashmika Rathnayake**, a student studying [Computing & Information Systems](https://www.sab.ac.lk/computing/undergraduate/bsc-is-about) at [Sabaragamuwa University Sri Lanka](https://www.sab.ac.lk/).
 - 🎨 I enjoy working on frontend development.
 - 🌱 I'm always exploring new technologies and methodologies.
+- 📧 Email: [thashrath7@gmail.com](mailto:thashrath7@gmail.com)
 
 ---
 
 ## 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThashmikaRathnayake&show_icons=true&theme=cobalt)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThashmikaRathnayake&layout=compact&theme=cobalt)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThashmikaRathnayake&show_icons=true&theme=cobalt&card_height=200" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThashmikaRathnayake&layout=compact&theme=cobalt&card_height=200" height="200"/>
+</div>
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThashmikaRathnayake&theme=dark)
 
 ---
