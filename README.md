@@ -55,9 +55,8 @@ I'm **Thashmika Rathnayake**, an undergraduate student in [Computing & Informati
 
 ## 🌟 Top Contributed Repositories
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ThashmikaRathnayake&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributions"/>
-</p>
+![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=ThashmikaRathnayake&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 
