@@ -6,6 +6,7 @@
 - 📧 Email: [thashrath7@gmail.com](mailto:thashrath7@gmail.com)
 
 ---
+---
 
 ## 📊 My GitHub Stats
 
@@ -30,13 +31,13 @@
 </div>
 
 ---
-
 ---
 
 ## 🌟 Contibutions
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThashmikaRathnayake&theme=github-compact)
 
+---
 ---
 
 ## 🏆 GitHub Trophies
@@ -45,6 +46,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ThashmikaRathnayake&theme=highcontrast&no-bg=true&margin-w=10"/>
 </div>
 
+---
 ---
 
 ## 🧰 Languages and Tools:
@@ -104,6 +106,7 @@
 </p>
 
 
+---
 ---
 
 ## 💛 Connect with Me
