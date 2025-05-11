@@ -17,10 +17,11 @@
 
 ## 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThashmikaRathnayake&show_icons=true&theme=cobalt&hide_border=true" height="200"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThashmikaRathnayake&layout=compact&theme=cobalt&hide_border=true" height="200"/>
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThashmikaRathnayake&show_icons=true&theme=cobalt&hide_border=true" 
+       style="flex: 3; max-width: 60%; height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThashmikaRathnayake&layout=compact&theme=cobalt&hide_border=true" 
+       style="flex: 2; max-width: 40%; height: 200px;" />
 </p>
 
 ---
