@@ -45,7 +45,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThashmikaRathnayake&theme=highcontrast&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ThashmikaRathnayake&theme=darkhub&no-bg=true&margin-w=10" />
 </p>
 
 ---
